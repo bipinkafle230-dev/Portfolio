@@ -8,16 +8,26 @@ Here are some of my favorite design works:
 
 - **Brand Identity for [NUVEUM]**  
   A complete branding package including logo..  
-  [View Project](link) | Tools: Photoshop and Canva 
+  [View Project](https://drive.google.com/file/d/1i2Pn49TbqDehCzb2VvLIamawJeQOoPSB/view?usp=drive_link) | Tools: Photoshop and Canva 
 
 - **UI/UX Design for [Website Patrakar]**  
   Designed intuitive interfaces and user flows for a website.  
-  [View Screens](link) | Tools: Figma
+  [View Screens](https://www.figma.com/design/z5BZDW0XRJe9jm9zS8wKQc/Figma-basics?m=auto&t=o9wo5CNLEppJuJXh-6) | Tools: Figma
 
-- **Poster Series: [Theme]**  
+- **Poster Series: [Perfume ]**  
   A collection of posters exploring branding and promo post.  
-  [See Posters](link) | Tools: photoshop , canva
+  [See Posters](https://drive.google.com/file/d/1cpWrihhjEe9LgUgn3J517iWZIQ-DmVVN/view?usp=drive_link) | Tools: photoshop , canva
 
+- **Poster Series: [Headphone ]**  
+  A collection of posters exploring branding and promo post.  
+  [See Posters](https://drive.google.com/file/d/14e2fmpWic4xoxiZD__1bZIdzRV83NU86/view?usp=drive_link) | Tools: photoshop , canva
+
+- **Logo: [BIG7]**  
+  A brand logo for liquor company based on research self work. 
+  [See Posters](https://drive.google.com/file/d/1GXQY1W7PzfGV_EW-jnSJLNLVTUaXOofE/view?usp=drive_link) | Tools: photoshop , canva
+
+  
+  
 ## 🧰 Tools & Skills
 
 - **Design Tools**: Adobe Photoshop,Inkshape, Figma, Canva  
